@@ -17,6 +17,6 @@ My first discord bot!
 
 It should do this:
 
-![example](https://github.com/iamtheyammer/hello-discord-bot/tree/master/Example.png)
+![example](https://github.com/iamtheyammer/hello-discord-bot/blob/master/Example.png)
 
 Enjoy your friendly bot!
